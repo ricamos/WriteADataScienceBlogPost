@@ -29,7 +29,7 @@ Spreadsheets are named with their years of activity.
 
 names.csv - Contains the names of the Senators and their parties.
 
-# Column Name Dictionary 
+### Column Name Dictionary 
 YEAR: Refund year
 
 MONTH: Refund month
